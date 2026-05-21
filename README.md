@@ -1,5 +1,3 @@
-# Marco Morote
-
 **Backend Developer · C# / .NET**  
 Brazil → Canada
 
