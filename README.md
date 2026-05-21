@@ -1,7 +1,7 @@
 **Backend Developer · C# / .NET**  
 Brazil → Canada
 
-Building maintainable, business-aligned systems. 10+ years of professional experience — strong fundamentals, real production delivery, and a structured plan to keep improving.
+Building maintainable, business-aligned systems. 15+ years of professional experience — strong fundamentals, real production delivery, and a structured plan to keep improving.
 
 ---
 
