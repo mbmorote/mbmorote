@@ -14,7 +14,8 @@ Building maintainable, business-aligned systems. 10+ years of professional exper
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)  
+
 **Patterns:** Clean Architecture · CQRS (MediatR) · Repository Pattern · Unit of Work · REST APIs · SOLID
 
 ---
