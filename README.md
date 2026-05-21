@@ -21,17 +21,7 @@ Building maintainable, business-aligned systems. 10+ years of professional exper
 
 ---
 
-## Projects
-
-| Project | Description |
-|---|---|
-| [PMFlow](https://github.com/mbmorote/portfolio/blob/main/projects/pmflow.md) | Production tracking platform — deployed in an active manufacturing facility. Solo end-to-end delivery. |
-| [.NET Clean Architecture Template](https://github.com/mbmorote/portfolio/blob/main/projects/template.md) | VS 2022 template with Clean Architecture + CQRS pre-wired. Built from real production lessons. |
-| [Profile Dashboard](https://github.com/mbmorote/portfolio/blob/main/projects/dashboard.md) | Personal dashboard app driven by Markdown files. No rebuild to update content. |
-
----
-
 ## Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morotemarco)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://github.com/mbmorote/portfolio)
