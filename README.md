@@ -5,6 +5,14 @@ Building maintainable, business-aligned systems. 15+ years of professional exper
 
 ---
 
+## 📌 Featured: MyAgentStudio
+
+A guided AI-agent workbench — a structured, always-visible view of the agent next to an agent-aware AI chat that proposes changes you review before they apply. Self-deployed on AWS with CI/CD; the only project here with a running product behind it.
+
+**[Live app →](https://myagentstudio.dev)** · **[Repo →](https://github.com/mbmorote/myagentstudio)** (AGPL-3.0)
+
+---
+
 ## Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
